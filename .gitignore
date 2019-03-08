@@ -1,4 +1,4 @@
-*.log
+log.txt
 __pycache__/
 project_av/__pycache__/
 .idea/
