@@ -64,7 +64,7 @@ create table video_url
 > you can import some data into your Mysql
 > the SQL file is in ./sql_data/
 
-###Secondly 
+### Secondly 
 you should config your db on project_av/setting.py
 ```python
 MYSQL_HOST = 'localhost'
