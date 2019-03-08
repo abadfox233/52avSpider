@@ -1,0 +1,5 @@
+*.log
+__pycache__/
+project_av/__pycache__/
+.idea/
+project_av/images/
